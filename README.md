@@ -8,7 +8,7 @@ I am a full stack software developer with 5 years of experience and a passion fo
   
 Through confident communication, strategic thinking, and innovative creations, I strive to write clean code that is extensible and follows best practices.
   
-With a proven record of delivering solutions and documentation I also have the ability to step into leadership roles and motivate, educate, and collaborate with my peers.
+With a proven record of delivering solutions and detailed documentation I also have the ability to step into leadership roles and motivate, educate, and collaborate with my peers.
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
