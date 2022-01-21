@@ -12,12 +12,18 @@
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="c" width="40" height="40"/></a>
   <!--python-->
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/></a>
+  <!--nodeje-->
+  <a href="https://www.nodejs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="c" width="40" height="40"/></a>
+  <!--mysql-->
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/></a>
   <!--docker-->
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="c" width="40" height="40"/></a>
-  <!--jetbrains-->
-  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="c" width="40" height="40"/></a>
   <!--git-->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="c" width="40" height="40"/></a>
+  <!--jetbrains-->
+  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="c" width="40" height="40"/></a>
+  
+  
 </p>
 
 <!--
