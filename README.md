@@ -25,10 +25,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
  </p>
  
- <h2 align="left">Connect with me:</h2>
+ <h2 align="left">How to Reach Me:</h2>
 <p align="left">
-  <a href="www.linkedin.com/in/kyle-manoleff-434509b7 " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt=""     height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/kyle-manoleff-434509b7 " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/kyle-manoleff-434509b7 " target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=""     height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/kyle-manoleff-434509b7 " target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="" height="30" width="40" /></a>
 </p>
 <!--
 **kmanoleff/kmanoleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
