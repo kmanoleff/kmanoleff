@@ -1,6 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
-
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7&lines=Hi+there%2C+I'm+Kyle)](https://git.io/typing-svg)
 
 <p>
