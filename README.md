@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7F7F7&lines=Hi+there%2C+I'm+Kyle)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F00FFFF&lines=Hi+there%2C+I'm+Kyle)](https://git.io/typing-svg)
 
 <p>
 I am a full stack software developer with 5 years of experience and a passion for solving problems and learning new things.  
@@ -10,9 +10,6 @@ With a proven record of delivering solutions and detailed documentation I also h
 
 <h2 align="left">Languages and Tools:</h2>
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=kmanoleff&show_icons=true&hide_border=true" />
-  </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
